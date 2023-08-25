@@ -24,7 +24,7 @@ body {
   height: 100vh;
   /* background-color: red; */
 }
-container__botao {
+.container__botao {
   background-color: var(--botao-azul);
   border-radius: 5px;
   padding: 1em;
