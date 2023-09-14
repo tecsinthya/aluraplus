@@ -17,7 +17,7 @@ body {
 }
 
 .principal {
-  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D178018%26name%3DSouth%2BPark%2BWallpapers&psig=AOvVaw2v25no48NX47Bc_Bha-L5z&ust=1694790578292000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMih0YWxqoEDFQAAAAAdAAAAABAE);
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D178018%26name%3DSouth%2BPark%2BWallpapers&psig=AOvVaw2v25no48NX47Bc_Bha-L5z&ust=1694790578292000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMih0YWxqoEDFQAAAAAdAAAAABAE");
   background-repeat: no-repeat;
   background-size: cover; 
 }
