@@ -1,7 +1,7 @@
 :root { 
   /* Varivaeis */
-  --branco-principal: #FFFFFF;
-  --cinza-secundario: #C0C0C0;
+  --branco-principal: #0e0c0c;
+  --cinza-secundario: #221f1f;
   --botao-azul: #f36608;
   --cor-de-fundo: #00030C;
   --font-family: 'Inter', sans-serif;
@@ -19,7 +19,7 @@ body {
 .principal {
   background-image: url("https://images.alphacoders.com/674/674756.jpg");
   background-repeat: no-repeat;
-  background-size: contain; 
+  background-size: cover; 
 }
 
 .container {
