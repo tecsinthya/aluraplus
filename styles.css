@@ -43,7 +43,7 @@ body {
   border: 2px solid var(--branco-principal);
 }
 
-.conteiner__titulo{
+.container__titulo{
   font-size: 28px;
   font-weight: 700;
 }
