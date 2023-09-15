@@ -74,7 +74,11 @@ margin: 1em 0 2em 0;
 .descricao__texto{
   color: aliceblue;
 }
+
 .secundario{
   align-items: center;
   text-align: center;
+}
+. .secundario__imagem{
+  width: 80%;
 }
