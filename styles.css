@@ -70,3 +70,7 @@ margin: 1em 0 2em 0;
 .container__botao{
   margin-bottom: 1em;
 }
+
+.descricao__texto{
+  color: aliceblue;
+}
