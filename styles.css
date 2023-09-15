@@ -78,6 +78,7 @@ margin: 1em 0 2em 0;
 .secundario{
   align-items: center;
   text-align: center;
+  background-color: aliceblue;
 }
 . .secundario__imagem{
   width: 80%;
