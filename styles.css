@@ -79,6 +79,7 @@ margin: 1em 0 2em 0;
   align-items: center;
   text-align: center;
   background-color: rgb(255, 255, 255);
+
 }
 .secundario__imagem{
   width: 80%;
@@ -86,7 +87,7 @@ margin: 1em 0 2em 0;
 .descricao__titulo{
   font-weight: 700;
   font-size: 48px;
-  margin: bottom 0.1em;;
+  margin-bottom: 0.1em;;
 }
 .descricao{
   color: darkgray;
