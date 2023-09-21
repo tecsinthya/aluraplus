@@ -83,3 +83,12 @@ margin: 1em 0 2em 0;
 .secundario__imagem{
   width: 80%;
 }
+.descricao__titulo{
+  font-weight: 700;
+  font-size: 48px;
+  margin: bottom 0.1em;;
+}
+.descricao{
+  color: darkgray;
+  line-height: 150%;
+}
