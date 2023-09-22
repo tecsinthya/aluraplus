@@ -100,8 +100,7 @@ margin: 1em 0 2em 0;
 }
 .descricao{
   color: darkgray;
-  line-height: 125%
-  font-size: 20px;
+
 }
 .container__descricao {
   padding: 2em;
@@ -109,4 +108,8 @@ margin: 1em 0 2em 0;
 .secundario__botao {
   display: inline-block;
   margin-top: 1em;
+}
+
+.imagem2 {
+  margin-left: 9em;
 }
