@@ -99,6 +99,7 @@ margin: 1em 0 2em 0;
 .descricao{
   color: darkgray;
   line-height: 150%;
+  font-size: 20px;
 }
 .container__descricao {
   padding: 2em;
