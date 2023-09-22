@@ -72,7 +72,9 @@ margin: 1em 0 2em 0;
 }
 
 .descricao__texto{
-  color: rgb(10, 10, 10);
+  color: #0a0a0a;
+  font-size: 29px;
+  line-height: 125%;
 }
 
 .secundario{
