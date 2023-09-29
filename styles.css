@@ -124,5 +124,6 @@ margin: 1em 0 2em 0;
 
 .dispotivos__lista {
   display: flex;
-  justify-content: center;
+  justify-content: space-around
+  
 }
