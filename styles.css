@@ -3,9 +3,9 @@
   --branco-principal: #03090e;
   --cinza-secundario: #110f0f;
   --botao-azul: #f36608;
-  --cor-de-fundo:  rgb(98, 120, 241);
+  --cor-de-fundo:  rgb(75 164 248);;
   --font-family: 'Inter', sans-serif;
-  --botao-azul-efeito: rgb(98, 120, 241);
+  --botao-azul-efeito:  rgb(75 164 248);;
 }
 
 body {
@@ -80,7 +80,7 @@ margin: 1em 0 2em 0;
 .secundario{
   align-items: center;
   margin: 0 6em;
-  background-color: rgb(98, 120, 241);
+  background-color:  rgb(75 164 248);;
 }
 
 
@@ -115,7 +115,7 @@ margin: 1em 0 2em 0;
 }
 
 .fundopreto{
-  background-color:rgb(98, 120, 241);
+  background-color: rgb(75 164 248);
 }
 
 .textobranco {
