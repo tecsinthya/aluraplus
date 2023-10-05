@@ -3,7 +3,7 @@
   --branco-principal: #03090e;
   --cinza-secundario: #110f0f;
   --botao-azul: #f36608;
-  --cor-de-fundo: white;
+  --cor-de-fundo: rgb(32, 83, 192);
   --font-family: 'Inter', sans-serif;
   --botao-azul-efeito: #3c92fa;
 }
