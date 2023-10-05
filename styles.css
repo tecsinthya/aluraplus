@@ -5,7 +5,7 @@
   --botao-azul: #f36608;
   --cor-de-fundo: rgb(105, 145, 233);
   --font-family: 'Inter', sans-serif;
-  --botao-azul-efeito: rgb(98, 120, 241);;
+  --botao-azul-efeito: rgb(98, 120, 241);
 }
 
 body {
@@ -115,7 +115,7 @@ margin: 1em 0 2em 0;
 }
 
 .fundopreto{
-  background-color: black;
+  background-color:rgb(98, 120, 241);
 }
 
 .textobranco {
