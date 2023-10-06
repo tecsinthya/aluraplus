@@ -139,7 +139,6 @@ footer{
  .dispotivos{
     display: flex;
     justify-content: space-around
-    margin-top: 1em;
  }
 
  ul li a {
