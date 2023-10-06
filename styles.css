@@ -138,10 +138,12 @@ footer{
 }
  .dispotivos{
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    text-align: center;
  }
 
  ul li a {
   color: #03090e;
   text-decoration: none;
+  
  }
