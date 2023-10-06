@@ -133,13 +133,15 @@ footer{
   text-align: center;
 }
  .dispositivos{
-    display: flex;
-    justify-content: space-around;
     text-align: center;
  }
 
  ul li a {
   color: #03090e;
-  text-decoration: none;
-  
+  text-decoration: none;  
+ }
+
+ .rodape__dispotivos {
+  display: flex;
+  justify-content: center;
  }
