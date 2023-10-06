@@ -140,3 +140,8 @@ footer{
       display: flex;
      justify-content: space-around
  }
+
+ ul li a {
+  color: #03090e;
+  text-decoration: none;
+ }
