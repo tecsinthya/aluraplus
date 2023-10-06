@@ -144,4 +144,5 @@ footer{
  .rodape__dispotivos {
   display: flex;
   justify-content: center;
+  padding-top: 50px;
  }
